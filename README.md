@@ -1,4 +1,4 @@
-# progminer  (ethminer fork with ProgPoW implementation)
+# Progminer (EVM miner with ProgPoW implementation)
 
 > Abassian ProgPoW miner with OpenCL, CUDA and stratum support
 
@@ -45,9 +45,9 @@ progminer --help
 
 Connecting to [pool.abassian.com](http://pool.abassian.com):
 
-`./progminer -P stratum1+tcp://0xaa16a61dec2d3e260cd1348e48cd259a5fb03f49.test@pool.abassian.org:8008` or
+`./progminer -P stratum1+tcp://0xaa16a61dec2d3e260cd1348e48cd259a5fb03f49.test@pool.abassian.com:8008` or
 
-`progminer.exe -P stratum1+tcp://0xaa16a61dec2d3e260cd1348e48cd259a5fb03f49.test@pool.abassian.org:8008`
+`progminer.exe -P stratum1+tcp://0xaa16a61dec2d3e260cd1348e48cd259a5fb03f49.test@pool.abassian.com:8008`
 
 ## Build
 
